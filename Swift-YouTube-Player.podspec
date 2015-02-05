@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/frootloops/Swift-YouTube-Player"
   s.license      = "MIT (example)"
   s.author             = { "Arsen Gasparyan" => "sir.frootloops@gmail.com" }
-  s.source       = { :git => "https://github.com/frootloops/Swift-YouTube-Player.git", :commit => "5548690e7f935d1c20a210ece8387ec9077f113a" }
+  s.source       = { :git => "https://github.com/frootloops/Swift-YouTube-Player.git" }
 
 
   s.source_files  = "YouTubePlayer/YouTubePlayer/**/*.{h,m,swift}"
