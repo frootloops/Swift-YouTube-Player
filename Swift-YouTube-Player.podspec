@@ -8,6 +8,6 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/frootloops/Swift-YouTube-Player.git" }
 
 
-  s.source_files  = "YouTubePlayer/YouTubePlayer/**/*.{h,m,swift}"
+  s.source_files  = "YouTubePlayer/YouTubePlayer/**/*.*"
   s.exclude_files = "Classes/Exclude"
 end
